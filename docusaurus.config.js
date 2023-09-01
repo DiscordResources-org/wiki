@@ -2,7 +2,7 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const themes = require('prism-react-renderer').themes;
-const lightCodeTheme = themes.github;
+const lightCodeTheme = themes.vsLight;
 const darkCodeTheme = themes.dracula;
 
 const userWidgetInlinePlugin = require('./src/plugins/userWidgetInlinePlugin');
@@ -13,8 +13,7 @@ const blogAuthorWidgetPlugin = require('./src/plugins/blogAuthorWidgetPlugin');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: 'Discord Resources',
-	tagline:
-		'A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.',
+	tagline: 'A comprehensive compilation of valuable Discord tools and assets for users of all levels, from novices to experts.',
 	url: 'https://discordresources.org',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
@@ -32,7 +31,7 @@ const config = {
 			name: "inject-tag",
 			injectHtmlTags() {
 				return {
-					headTags: [{ tagName: "script", attributes: { src: 'https://stats.sattler.dev/js/script.js/', 'data-domain': 'discordresources.org', defer: true } }],
+					headTags: [{ tagName: "script", attributes: { src: 'https://stats.sattler.dev/js/script.js', 'data-domain': 'discordresources.org', defer: true } }],
 				};
 			},
 		}),
@@ -75,6 +74,22 @@ const config = {
 		({
 			// We don't set the description and title here to assure that the right og:tags will be delivered per page.
 			metadata: [
+				{
+					name: 'og:type',
+					content: 'Website',
+				},
+				{
+					name: 'publisher',
+					content: 'DiscordResources.org',
+				},
+				{
+					name: 'author',
+					content: 'DiscordResources.org',
+				},
+				{
+					name: 'keywords',
+					content: 'tools, discord, resources, userfriendly, uptodate, up2date, maintained, curated, wiki, blog, community, discordresources, discordresources.org, discord resources, discordresources wiki, discordresources blog, discordresources.org wiki, discordresources.org blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog',
+				},
 				{
 					name: 'og:image',
 					content: 'https://discordresources.org/img/logo-background.png',

@@ -53,3 +53,7 @@ Although optional, we would really appreciate being credited if we were of help 
 links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
 
 **Help your friends, mutuals, community members and more by sharing this project with them too!**
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.
