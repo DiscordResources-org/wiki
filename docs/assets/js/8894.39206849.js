@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiscord_resource_wiki=self.webpackChunkdiscord_resource_wiki||[]).push([[8894],{8894:(e,s,r)=>{r.r(s)}}]);
