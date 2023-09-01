@@ -115,3 +115,7 @@ description: Official links from Discord.
 > **Description:** Test and debug link embeds for your website. Discord supports oEmbed, Open Graph, and Twitter Card
 > metadata formats for rendering link embeds. <br/>
 **Link:** [Discord Embed Previewer](https://discord.com/developers/embeds)
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

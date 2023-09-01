@@ -127,3 +127,7 @@ description: Converter tools
 > **Description:** Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually
 > picking pixels. Upload your photo now & see the magic. <br/>
 **Link:** [Remove Background](https://www.remove.bg/)
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

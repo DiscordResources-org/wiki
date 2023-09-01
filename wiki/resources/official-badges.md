@@ -89,3 +89,7 @@ Some badges changed over time, here is a list of all the changes.
 | Early Verified Bot Developer | Verified Bot Developer                                                                        | **Early** Verified Bot Developer                              | 2020-08-19   |
 | Discord Partner              | <img src="/img/olddiscordpartner.png" style={{width: '140px'}} />                             | <img src="/img/discordpartner.svg"/>                          | 2022-05-31   |
 | Moderator Programs Alumni    | <img src="/img/olddiscordmod.svg" style={{width: '140px'}} /><br/>Discord Certified Moderator | <img src="/img/discordmod.svg"/><br/>Moderator Programs Alumn | 2022-12-01   |
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

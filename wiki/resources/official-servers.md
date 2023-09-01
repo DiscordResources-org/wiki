@@ -36,3 +36,7 @@ description: Official servers owned by Discord.
 **Link:** [Discord Safety](https://discord.gg/safety)
 
 @gg/safety
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

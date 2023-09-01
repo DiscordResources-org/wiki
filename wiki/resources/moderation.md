@@ -36,3 +36,7 @@ description: Moderation resources
 > **Description:** Extensive, yet polished community ruleset, aimed at reducing the work of moderators.   <br/>
 **Link:** [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
 **Credit:** @102102717165506560
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

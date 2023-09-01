@@ -67,3 +67,7 @@ didn't fit anywhere else  <br/>
 <https://shouldiblamecaching.com/> | should I blame caching?  <br/>
 <https://emoji.supply/kitchen/> | emoji merger <br/>
 <https://cuberule.com/> | is it a sandwich?
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

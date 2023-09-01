@@ -145,3 +145,7 @@ iOS)*   <br/>
 > **Description:** Dangercord, formerly known as Dangerous Discord, was created to help protect Discord users from bad
 > actors. <br/>
 **Link:** [Dangercord](https://dangercord.com/)   <br/>
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

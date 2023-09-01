@@ -30,4 +30,7 @@ description: Official files from Discord.
 [Audio](https://dis.gd/Radio-Discord-Forums-Beta)  <br/>
 [Transcript](https://dis.gd/Radio-Discord-Forums-Beta-Transcript)
 
-### 🚧 under construction...
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.
+

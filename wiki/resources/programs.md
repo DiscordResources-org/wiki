@@ -38,3 +38,7 @@ description: Discord programs like Moderation, Partner, HSE and Verification.
 > **Description:** Official server for server admins of all kinds to assemble and exchange about community related
 > subjects. <br/>
 **Link:** [Discord Admin](https://support.discord.com/hc/en-us/articles/5309276245271-Discord-Admin-Server-FAQ)
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

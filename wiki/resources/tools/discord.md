@@ -327,3 +327,7 @@ Launch Game: discord://-/library/550277544025522176/launch
 Invite: discord://-/invite/discord-testers
 Favorites: discord://-/channels/@favorites
 ```
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

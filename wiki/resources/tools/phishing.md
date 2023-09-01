@@ -78,3 +78,7 @@ description: Phishing and Security tools
 > **Description:** Advanced security researching tools to help determine if a file is malicious and much more. (Not
 > entirely free) <br/>
 **Link:** [Intezer Analyse](https://analyze.intezer.com/)
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

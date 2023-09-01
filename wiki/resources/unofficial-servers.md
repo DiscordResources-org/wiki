@@ -115,3 +115,7 @@ description: Unofficial servers related to Discord
 **Credit:** owned by @212844004889329664
 
 @gg/tZNRf7WfBU
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

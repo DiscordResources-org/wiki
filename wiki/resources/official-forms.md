@@ -25,3 +25,7 @@ description: Official forms from Discord.
 
 > **Description:** Report a bug to the Discord team.   <br/>
 **Link:**  [Discord Bug Report Form](https://dis.gd/bugreport)
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

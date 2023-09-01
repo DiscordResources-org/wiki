@@ -64,3 +64,7 @@ description: Basic resources
 
 > **Description:** All official downloadable Discord clients. (Download Discord!)   <br/>
 **Link:** [Discord Clients](https://discord.com/download)
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

@@ -79,5 +79,5 @@ description: Discord bot recommendations at the category of fun.
 
 ## You think something is missing?
 
-> Contact us on our Discord or an email to hi@disgd.wiki and we will add it as soon as possible.
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.
 

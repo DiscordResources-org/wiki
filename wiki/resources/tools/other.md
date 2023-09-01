@@ -297,3 +297,7 @@ description: Other useful tools
 > personalized links and pages.  <br/>
 **Link:** [Tixte](https://tixte.com/)<br/>
 **Credit:** @684155404078415890
+
+## You think something is missing?
+
+> Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.
