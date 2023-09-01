@@ -37,6 +37,12 @@ description: Official servers owned by Discord.
 
 @gg/safety
 
+## Discord Admins
+
+> **Description:** The official server for Discord for Admins. 
+> Here you can learn more about features, use best practices, and meet other members who want to improve their communities!<br/>
+**Link:** [Discord Admin](https://support.discord.com/hc/en-us/articles/5309276245271-Discord-Admin-FAQ)
+
 ## You think something is missing?
 
 > Contact us on our Discord or an email to hi@disgd.wiki, and we will add it as soon as possible.

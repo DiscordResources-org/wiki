@@ -19,6 +19,8 @@ You can also join the [Project Server](https://discord.gg/fpRrQr86eG) to contrib
 
 @347077478726238228 - Project Maintainer
 
+@421991668556759042 - Project Maintainer
+
 ### Old Contributors (From the original Discord Resources)
 
 This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this
