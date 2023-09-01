@@ -11,7 +11,7 @@ Found an error or a typo? Have a good resource that fits this list? Become a con
 contributors below!<br/>
 To contribute, you are more than welcome to PR this wiki or send a DM to @340243638892101646 or @347077478726238228 in
 order to edit the wiki, and yourself into the list.
-You can also join the [Project Server](https://discord.gg/8hJEvHr7rq) to contribute there.
+You can also join the [Project Server](https://discord.gg/fpRrQr86eG) to contribute there.
 
 ## Contributors (From this Fork)
 
