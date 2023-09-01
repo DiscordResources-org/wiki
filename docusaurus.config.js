@@ -21,11 +21,10 @@ const config = {
 	favicon: 'img/favicon.ico',
 	organizationName: 'Discord-Resources-Wiki',
 	projectName: 'Discord-Resources-Wiki',
-
-	// i18n: {
-	// 	defaultLocale: "en",
-	// 	locales: ["de"]
-	//   },
+	i18n: {
+		defaultLocale: "en",
+		locales: ["de"]
+	  },
 	plugins: [
 		() => ({
 			name: "inject-tag",

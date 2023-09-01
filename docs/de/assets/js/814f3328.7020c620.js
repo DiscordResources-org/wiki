@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"The revival of Discord Resources","permalink":"/de/blog/2023/08/31/changelog"}]}')}}]);
