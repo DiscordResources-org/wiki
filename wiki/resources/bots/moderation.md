@@ -1,10 +1,16 @@
 ---
 title: Bots - Moderation
-sidebar_position: 6
+sidebar_position: 7
 description: Discord bot recommendations at the category of moderation.
 ---
 
 # Moderation
+
+### Sapphire
+
+> **Description:** Multi-purpose Discord Bot. Fully customizable. Completely free. <br/>
+**Link:**  [Sapphire Website](https://sapph.xyz/)  <br/>
+**Credit:** @265236642476982273
 
 ### Cloe
 

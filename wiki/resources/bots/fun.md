@@ -1,6 +1,6 @@
 ---
 title: Bots - Fun
-sidebar_position: 3
+sidebar_position: 4
 description: Discord bot recommendations at the category of fun.
 ---
 
@@ -60,6 +60,22 @@ description: Discord bot recommendations at the category of fun.
 [Invite Truth Or Dare](https://discord.com/oauth2/authorize?client_id=692045914436796436&permissions=19456&scope=bot%20applications.commands)  <br/>
 [Truth Or Dare Website](https://truthordarebot.xyz/)  <br/>
 **Credit:** @276544649148235776
+
+### One Word Story
+
+> **Description:** AI'll help you to moderate and compile one word stories on your discord server! Free and with an easy-to-use dashboard.  <br/>
+**Link(s):**  <br/>
+[Invite One Word Story](https://discord.com/oauth2/authorize?client_id=728709263962275840&permissions=2147871808&redirect_uri=https%3A%2F%2Fdash.onewordstory.fun%2Flogin&scope=bot%20applications.commands)  <br/>
+[One Word Story Website](https://onewordstory.fun/)  <br/>
+**Credit:** @472701425323868161
+
+### TicTacToe
+
+> **Description:** Tic Tac Toe now takes on a new form. Play against your friends, or if you don't have any, against the AI, and see if you can outsmart them.  <br/>
+**Link(s):**  <br/>
+[Invite TicTacToe](https://discord.com/oauth2/authorize?client_id=919549400919986176&permissions=2147871808&scope=bot%20applications.commands)  <br/>
+[TicTacToe Website](https://tictactoe-bot.xyz/)  <br/>
+**Credit:** @472701425323868161
 
 ## You think something is missing?
 

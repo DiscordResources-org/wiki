@@ -1,6 +1,6 @@
 ---
 title: Bots - Giveaways
-sidebar_position: 4
+sidebar_position: 5
 description: Discord bot recommendations at the category of giveaways.
 ---
 

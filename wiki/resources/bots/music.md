@@ -1,6 +1,6 @@
 ---
 title: Bots - Music
-sidebar_position: 8
+sidebar_position: 9
 description: Discord bot recommendations at the category of music.
 ---
 

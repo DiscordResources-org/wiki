@@ -1,6 +1,6 @@
 ---
 title: Bots - Notifications
-sidebar_position: 9
+sidebar_position: 10
 description: Discord bot recommendations at the category of notifications.
 ---
 

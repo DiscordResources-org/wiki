@@ -1,6 +1,6 @@
 ---
 title: Bots - Applications
-sidebar_position: 5
+sidebar_position: 6
 description: Discord bot recommendations at the category of applications.
 ---
 

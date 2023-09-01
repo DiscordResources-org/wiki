@@ -1,6 +1,6 @@
 ---
 title: Bots - ModMail
-sidebar_position: 7
+sidebar_position: 8
 description: Discord bot recommendations at the category of modmail.
 ---
 

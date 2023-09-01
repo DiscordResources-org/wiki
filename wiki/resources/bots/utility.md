@@ -1,17 +1,18 @@
 ---
 title: Bots - Utility
-sidebar_position: 10
+sidebar_position: 11
 description: Discord bot recommendations at the category of utility.
 ---
 
 # Utility
 
-### Polls
+### R.Danny
 
-> **Description:** Create polls easier than ever before. And at the same time, advance like never before!  <br/>
-**Link:
-** [Invite Polls](https://discord.com/api/oauth2/authorize?client_id=1133835522113024151&permissions=18013093227520&redirect_uri=https%3A%2F%2Fpolls.sattler.dev%2Fprivacy-and-tos%3Futm_source%3Ddiscord-app-invite&response_type=code&scope=identify%20applications.commands%20bot)  <br/>
-**Credit:** @173815235243802624
+> **Description:** One of the first bots on Discord, with dozens of utility commands. <br/>
+**Link(s):**  <br/>
+[Invite R.Danny](https://discord.com/oauth2/authorize?client_id=169293305274826754&scope=bot+applications.commands&permissions=268823638)  <br/>
+[R.Danny Source](https://github.com/Rapptz/RoboDanny)  <br/>
+**Credit:** @80088516616269824
 
 ### Iris XP
 
@@ -35,9 +36,14 @@ description: Discord bot recommendations at the category of utility.
 ### Publisher
 
 > **Description:** auto publishes messages in announcements channels.   <br/>
-**Link:
-** [Invite Publisher](https://discord.com/api/oauth2/authorize?client_id=739498075315241050&permissions=8192&scope=bot)   <br/>
+**Link:** [Invite Publisher](https://discord.com/api/oauth2/authorize?client_id=739498075315241050&permissions=8192&scope=bot)   <br/>
 **Credit:** @255834596766253057
+
+### Polls
+
+> **Description:** Create polls easier than ever before. And at the same time, advance like never before!  <br/>
+**Link:** [Invite Polls](https://discord.com/api/oauth2/authorize?client_id=1133835522113024151&permissions=18013093227520&redirect_uri=https%3A%2F%2Fpolls.sattler.dev%2Fprivacy-and-tos%3Futm_source%3Ddiscord-app-invite&response_type=code&scope=identify%20applications.commands%20bot)  <br/>
+**Credit:** @340243638892101646
 
 ### Activities Bot
 
@@ -53,14 +59,6 @@ description: Discord bot recommendations at the category of utility.
 [Reaction Docs](https://rr.auttaja.io/)  <br/>
 [Invite Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
 **Credit:** @109710323094683648
-
-### R.Danny
-
-> **Description:** One of the first bots on Discord, with dozens of utility commands. <br/>
-**Link(s):**  <br/>
-[Invite R.Danny](https://discord.com/oauth2/authorize?client_id=169293305274826754&scope=bot+applications.commands&permissions=268823638)  <br/>
-[R.Danny Source](https://github.com/Rapptz/RoboDanny)  <br/>
-**Credit:** @80088516616269824
 
 ### Discord Status (webhook)
 
