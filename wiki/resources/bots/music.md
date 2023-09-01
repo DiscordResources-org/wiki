@@ -6,6 +6,20 @@ description: Discord bot recommendations at the category of music.
 
 # Music
 
+### FlaviBot
+
+> **Description:** High Quality Music Bot, Supports Spotify, Soundcloud, Deezer, Tidal, Apple Music, radio, 24/7 mode,
+> Filters, AutoPlay, Playlists, Web Player   <br/>
+**Link:** [FlaviBot Website](https://flavibot.xyz/)   <br/>
+**Credit:** @360783331962650624
+
+### Lofi Radio
+
+> **Description:** High quality Lo-Fi Radio bot that plays 24/7, for FREE!   <br/>
+**Link:
+** [Invite Lofi Radio](https://discord.com/oauth2/authorize?client_id=830530156048285716&permissions=66407424&scope=bot%20applications.commands)   <br/>
+**Credit:** @747778436172480545
+
 ### Betty
 
 > **Description:** The most advanced music bot on Discord.   <br/>
@@ -25,20 +39,6 @@ description: Discord bot recommendations at the category of music.
 **Link:
 ** [Invite Mivator](https://discord.com/api/oauth2/authorize?client_id=1068868597398650971&permissions=2056&scope=applications.commands%20bot)   <br/>
 **Credit:** @498094279793704991
-
-### FlaviBot
-
-> **Description:** High Quality Music Bot, Supports Spotify, Soundcloud, Deezer, Tidal, Apple Music, radio, 24/7 mode,
-> Filters, AutoPlay, Playlists, Web Player   <br/>
-**Link:** [FlaviBot Website](https://flavibot.xyz/)   <br/>
-**Credit:** @360783331962650624
-
-### Lofi Radio
-
-> **Description:** High quality Lo-Fi Radio bot that plays 24/7, for FREE!   <br/>
-**Link:
-** [Invite Lofi Radio](https://discord.com/oauth2/authorize?client_id=830530156048285716&permissions=66407424&scope=bot%20applications.commands)   <br/>
-**Credit:** @747778436172480545
 
 ## You think something is missing?
 

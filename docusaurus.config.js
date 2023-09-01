@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const themes = require('prism-react-renderer').themes;
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 const userWidgetInlinePlugin = require('./src/plugins/userWidgetInlinePlugin');
 const inviteWidgetPlugin = require('./src/plugins/inviteWidgetPlugin');
@@ -93,8 +94,8 @@ const config = {
 			navbar: {
 				title: 'Discord Resources',
 				logo: {
-					alt: 'My Site Logo',
-					src: 'img/logo-small.png',
+					alt: 'Discord Resources Site Logo',
+					src: 'https://discordresources.org/img/logo-small.png',
 					href: '/',
 				},
 				items: [

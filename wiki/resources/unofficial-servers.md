@@ -22,26 +22,31 @@ description: Unofficial servers related to Discord
 
 @gg/discord-linux
 
-
 ## Discord Networking
 
-> **Description:** A place where anyone that helps support the operation of a Discord server can get to know each other, exchange advice, and create lasting partnerships.   <br/>
+> **Description:** A place where anyone that helps support the operation of a Discord server can get to know each other,
+> exchange advice, and create lasting partnerships.   <br/>
 **Link:** [Discord Networking](https://discord.gg/BcXExxeGVG) (Access request required)   <br/>
 **Credit:** Discord Networking team (owned by @200987752794292224)
 
 @gg/BcXExxeGVG
 
-
 ## Community Architects
 
-> **Description:** We are committed to bringing together community moderators, admins, designers, and more to share and collaborate on building communities.   <br/>
-**Link(s):** [Community Architects Discord](https://discord.gg/communityarchitects) | [Community Architects Website](https://communityarchitects.net)   <br/>
+> **Description:** We are committed to bringing together community moderators, admins, designers, and more to share and
+> collaborate on building communities.   <br/>
+**Link(s):
+** [Community Architects Discord](https://discord.gg/communityarchitects) | [Community Architects Website](https://communityarchitects.net)   <br/>
 **Credit:** Community Architects team (owned by @354309005037797376)
 
 @gg/communityarchitects
 
 ## Moderatoren HQ
-> **Description:** Moderatoren HQ (ModHQ) is a German community where moderators and administrators connect and discuss topics around moderating a Discord server. ModHQ specializes in deep dives in the form of Workshops in various topics around building a safe and inclusive community with a knowledgeable and supportive mod team. English speakers are also welcome!  <br/>
+
+> **Description:** Moderatoren HQ (ModHQ) is a German community where moderators and administrators connect and discuss
+> topics around moderating a Discord server. ModHQ specializes in deep dives in the form of Workshops in various topics
+> around building a safe and inclusive community with a knowledgeable and supportive mod team. English speakers are also
+> welcome!  <br/>
 **Link:** [Moderatoren HQ](https://discord.gg/modhq)  <br/>
 **Credit:** ModHQ team (owned by @160462182344032256)
 
@@ -49,7 +54,8 @@ description: Unofficial servers related to Discord
 
 ## The Coding Den
 
-> **Description:**  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers alike.   <br/>
+> **Description:**  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers
+> alike.   <br/>
 **Link:** [The Coding Den](https://discord.gg/code)   <br/>
 **Credit:** The Coding Den team (owned by @229334929614438400)
 
@@ -69,14 +75,43 @@ description: Unofficial servers related to Discord
 
 ## Dev Hub
 
-> **Description:** A community to bring developers and proficients together to share ideas and talk (Discord) meta.   <br/>
+> **Description:** A community to bring developers and proficients together to share ideas and talk (Discord)
+> meta.   <br/>
 **Link:** (only by referral)   <br/>
 **Credit:** Dev Hub team (owned by @386861188891279362)
 
 ## The Programmers Hangout
 
-> **Description:** The Programmers Hangout is a general-purpose programming community with an emphasis on hangout, catering to all experience levels. With a focus on open-source projects, education, learning, career progression, and programming help.  <br/>
-**Link(s):** [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>
+> **Description:** The Programmers Hangout is a general-purpose programming community with an emphasis on hangout,
+> catering to all experience levels. With a focus on open-source projects, education, learning, career progression, and
+> programming help.  <br/>
+**Link(s):
+** [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>
 **Credit:** The Programmers Hangout team (owned by @335628039302021121)
 
 @gg/programming
+
+## Discord Creators (With verification)
+
+> **Description:** Private Community for Verified Bot Devs, ServerOwners & Creators.  <br/>
+**Link:** [Discord Creators](https://discord.gg/R3hPevRtUV)  <br/>
+**Credit:** owned by @691288534375596062
+
+@gg/R3hPevRtUV
+
+## Owners Portal (With verification)
+
+> **Description:** A community dedicated to connecting server owners, bot developers, moderators, and digital
+> artists.  <br/>
+**Link:** [Owners Portal](https://discord.gg/owner)  <br/>
+**Credit:** owned by @676867934504747008
+
+@gg/owner
+
+## Discord Bot Owners (With verification)
+
+> **Description:** Private Community for Verified Bot Devs.  <br/>
+**Link:** [Discord Bot Owners](https://discord.gg/tZNRf7WfBU)  <br/>
+**Credit:** owned by @212844004889329664
+
+@gg/tZNRf7WfBU

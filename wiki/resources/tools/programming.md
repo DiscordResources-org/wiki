@@ -1,5 +1,5 @@
 ---
-title: Programming Related 
+title: Programming Related
 sidebar_position: 2
 description: Programming related tools
 ---
@@ -8,7 +8,8 @@ description: Programming related tools
 
 ## Autocode
 
-> **Description:** Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, with no configuration required.   <br/>
+> **Description:** Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, with no
+> configuration required.   <br/>
 **Link:** [Autocode](https://autocode.com/)  <br/>
 **Credit:** @746460957651501196
 
@@ -25,8 +26,9 @@ description: Programming related tools
 ## Some Random API
 
 > **Description:** Variety of fun endpoints for devs to use.  <br/>
-**Link:** [Some Random API](https://some-random-api.ml/)  <br/>
-**Credit:** @423675224395874314
+**Link:** [Some Random API](https://some-random-api.ml/) new one [Some Random API](https://some-random-api.com/)
+> #RIPTelk <br/>
+**Credit(s):** @423675224395874314 @116930717241311236
 
 ## Choose A License
 
@@ -41,7 +43,7 @@ description: Programming related tools
 ## Visual Studio Code
 
 > **Description:** Free and biggest code editing tool. <br/>
-**Link:** [Visual studio code](https://code.visualstudio.com)  
+**Link:** [Visual studio code](https://code.visualstudio.com)
 
 ## Docusaurus
 
@@ -68,7 +70,8 @@ description: Programming related tools
 
 ## Public APIs
 
-> **Description:** Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
+> **Description:** Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized
+> and documented.   <br/>
 **Link:** [Public APIs](https://github.com/public-apis/public-apis)
 
 ## HTTPS Statuses
@@ -83,18 +86,21 @@ description: Programming related tools
 
 ## HTTP Toolkit
 
-> **Description:** Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
+> **Description:** Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject
+> errors.  <br/>
 **Link:** [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
 **Credit:** github:@pimterry
 
 ## Markdown Guide
 
-> **Description:** The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
+> **Description:** The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the
+> simple and easy-to-use markup language you can use to format virtually any document.   <br/>
 **Link:** [Markdown Guide](https://www.markdownguide.org/)
 
 ## Qwerty.dev
 
-> **Description:** Qwerty.dev (formerly beautifuldingbats.com) is a collection of Unicode tools to help you stand out online.   <br/>
+> **Description:** Qwerty.dev (formerly beautifuldingbats.com) is a collection of Unicode tools to help you stand out
+> online.   <br/>
 **Link:** [Qwerty.dev](https://qwerty.dev/)
 
 ## replit
@@ -140,3 +146,18 @@ description: Programming related tools
 > **Description:** A package that helps make paginated messages easier in discord.js. <br/>
 **Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
 **Credit:** @github:sapphiredev
+
+## Script Kit: Shortcut to Everything
+
+> **Description:** An open-source kit to optimize your developer workflow.   <br/>
+**Link:** [Script Kit](https://www.scriptkit.com/)
+
+## Conventional Commits
+
+> **Description:** A specification for adding human and machine readable meaning to commit messages.   <br/>
+**Link:** [Conventional Commits](https://www.conventionalcommits.org/)
+
+## Pretty Typescript (VSCode Addon)
+
+> **Description:** Make TypeScript errors prettier and human-readable in VSCode.   <br/>
+**Link:** [Pretty Typescript](https://github.com/yoavbls/pretty-ts-errors)

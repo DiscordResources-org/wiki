@@ -21,14 +21,10 @@ description: Official links from Discord.
 > **Description:** A guide on how to find IDs.   <br/>
 **Link:**  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
 
-## Discord Bugs
-
-> **Description:**  The official tool to look up reported and approved bugs.   <br/>
-**Link:** [Discord Bugs](https://bugs.discord.com/)
-
 ## Discord Testers Bug Tool
 
-> **Description:** The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
+> **Description:** The official tool for generating text for DBug's !submit command. The form guides you step by step
+> through every input to automatically generate a command for you at the end.   <br/>
 **Link:** [Testers Bug Tool](https://dis.gd/bug-tool)   <br/>
 **Credit:** @53905483156684800
 
@@ -59,7 +55,7 @@ description: Official links from Discord.
 [Discord Open Source](https://discord.com/open-source)   <br/>
 [Discord Open Source Github](https://github.com/discord/discord-open-source)
 
-## Discord Branding  
+## Discord Branding
 
 > **Description:** Discord’s branding assets and guidelines.   <br/>
 **Link(s):**  <br/>
@@ -83,7 +79,8 @@ description: Official links from Discord.
 
 ## Discord Developer Docs
 
-> **Description:** The documents detailing how all types of interactions are handled, and a resource for bot developers.   <br/>
+> **Description:** The documents detailing how all types of interactions are handled, and a resource for bot
+> developers.   <br/>
 **Link:** [Discord Developer Docs](https://discord.dev/)
 
 ## Discord Security Bug Bounties
@@ -112,3 +109,9 @@ description: Official links from Discord.
 
 > **Description:** Official RSS Feed of Discords Blog. <br/>
 **Link:** [Blog RSS Feed](https://discord.com/blog/rss.xml)
+
+## Discord Embed Previewer
+
+> **Description:** Test and debug link embeds for your website. Discord supports oEmbed, Open Graph, and Twitter Card
+> metadata formats for rendering link embeds. <br/>
+**Link:** [Discord Embed Previewer](https://discord.com/developers/embeds)

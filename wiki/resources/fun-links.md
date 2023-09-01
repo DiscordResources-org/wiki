@@ -26,7 +26,7 @@ description: Fun links
 <https://www.soundsjustlike.com/> | sounds just like   <br/>
 <https://www.whosampled.com/> | who sampled   <br/>
 <https://http.cat/> | HTTP cats   <br/>
-<https://http.dog/> |  HTTP dogs <br/>
+<https://http.dog/> | HTTP dogs <br/>
 <https://thispersondoesnotexist.com/> | this person does not exist   <br/>
 <https://thisponydoesnotexist.net/> | this pony does not exist <br/>
 <https://thisfursonadoesnotexist.com/> | this fursona does not exist  <br/>
@@ -48,20 +48,21 @@ description: Fun links
 <https://mcbroken.com/> | is the ice cream machine broken  <br/>
 <https://ian-deploy.xyz/> | Ian deploy  <br/>
 <https://bubblespop.netlify.app/> | bubble wrap pop  <br/>
-[Discord loading messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88) | idk if it's fun but it didn't fit anywhere else  <br/>
+[Discord loading messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88) | idk if it's fun but it
+didn't fit anywhere else  <br/>
 <https://tikolu.net/elevation/> | how high are you (above sea level)  <br/>
 <https://tikolu.net/spot-the-difference/gameover> | spot the difference <br/>
 <https://tikolu.net/edit/> | edit the text  <br/>
 <https://tikolu.net/emojimix/> | emoji mixer  <br/>
 <https://tikolu.net/font-changer/> | font changer  <br/>
 <https://tikolu.net/time/> | accurate time  <br/>
-<http://needsmorejpeg.com/> |  need more jpeg  <br/>
+<http://needsmorejpeg.com/> | need more jpeg  <br/>
 <https://api.onlyraccoons.com/> | http racoons  <br/>
 <https://guthib.com> | POV: You just woke up and wanted to open GitHub  <br/>
 <https://no-bitch.es/> | no bitches  <br/>
 <https://why-stup.id> | Why are you stupid <br/>
 <https://does.discord.work/> | who broke Discord  <br/>
-<https://cat-bounce.com/> |  cat bounce <br />
+<https://cat-bounce.com/> | cat bounce <br />
 <https://txnor.com/mathchallenge> | math challenge <br />
 <https://shouldiblamecaching.com/> | should I blame caching?  <br/>
 <https://emoji.supply/kitchen/> | emoji merger <br/>

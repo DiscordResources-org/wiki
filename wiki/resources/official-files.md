@@ -16,16 +16,18 @@ description: Official files from Discord.
 [Audio Presentation](https://cdn.discordapp.com/attachments/960960145800704030/982392876254232667/DAC_AuditingYourServer_ExperimentalContent.mp3)
 
 ### All-Things Accessibility
-> **Description:** A Discord interview (audio and transcript) about accessibility with a Discord employee from the accessibility team.  <br/>
+
+> **Description:** A Discord interview (audio and transcript) about accessibility with a Discord employee from the
+> accessibility team.  <br/>
 **Link(s):** <br/>
 [Audio](https://dis.gd/RadioDiscord_Accessibility )  <br/>
 [Transcript](https://dis.gd/RadioDiscordAccessibilityTranscript)
 
 ### Discussing The Forums Feature
+
 > **Description:** The Discord community team talks about a new feature in testing: forums.  <br/>
 **Links:** <br/>
 [Audio](https://dis.gd/Radio-Discord-Forums-Beta)  <br/>
 [Transcript](https://dis.gd/Radio-Discord-Forums-Beta-Transcript)
-
 
 ### 🚧 under construction...

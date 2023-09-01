@@ -6,6 +6,20 @@ description: Discord bot recommendations at the category of notifications.
 
 # Notifications
 
+### Pingcord
+
+> **Description:** Looking for a way to reliably let your Discord community know when you go live, post a video, post to
+> social media and more, all on time? You've come to the right place! Take a look at what Pingcord can do for you
+> below! <br/>
+**Link:**  [Pingcord Website](https://pingcord.xyz)  <br/>
+**Credit:** @123074752494567424
+
+### Sapphire
+
+> **Description:** Good bot for Youtube or Twitter notifications. <br/>
+**Link:**  [Sapphire Website](https://sapph.xyz/)  <br/>
+**Credit:** @265236642476982273
+
 ### KickBot
 
 > **Description:** The best bot to get YOUR kick.com livestream announcements right into YOUR Discord server! <br/>
@@ -32,20 +46,6 @@ description: Discord bot recommendations at the category of notifications.
 [Invite Noti](https://notibot.app/invite)  <br/>
 [Noti Website](https://notibot.app)  <br/>
 **Credit:** @498728692214792194
-
-### Pingcord
-
-> **Description:** Looking for a way to reliably let your Discord community know when you go live, post a video, post to
-> social media and more, all on time? You've come to the right place! Take a look at what Pingcord can do for you
-> below! <br/>
-**Link:**  [Pingcord Website](https://pingcord.xyz)  <br/>
-**Credit:** @123074752494567424
-
-### Sapphire
-
-> **Description:** Good bot for Youtube or Twitter notifications. <br/>
-**Link:**  [Sapphire Website](https://sapph.xyz/)  <br/>
-**Credit:** @265236642476982273
 
 ## You think something is missing?
 

@@ -29,21 +29,23 @@ description: Other useful tools
 
 ## CleanURLs
 
-> **Description:** ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
+> **Description:** ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove
+> tracking elements from URLs to help protect your privacy.  <br/>
 **Link(s):**  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
 [CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
 **Credit:** @github:KevinRoebert
 
-
 ## Polywork
 
-> **Description:** Polywork is a professional social network that lets users create a free personal webpage, share what they're up to both personally and professionally, and send collaboration requests to others.  <br/>
+> **Description:** Polywork is a professional social network that lets users create a free personal webpage, share what
+> they're up to both personally and professionally, and send collaboration requests to others.  <br/>
 **Link:** [Polywork](https://www.polywork.com/)
 
 ## Rize
 
-> **Description:** Rize is an intelligent time tracker that improves your focus and helps you build better work habits. <br/>
+> **Description:** Rize is an intelligent time tracker that improves your focus and helps you build better work
+> habits. <br/>
 **Link:** [Rize](https://rize.io)
 
 ## Files
@@ -107,11 +109,6 @@ description: Other useful tools
 > **Description:** A list of slang used across the internet.   <br/>
 **Link:** [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
 
-## Invited
-
-> **Description:** Watch movies, YouTube, or even listen to music together through a shared virtual browser.   <br/>
-**Link:** [Invited](https://invited.tv/)
-
 ## Obsidian
 
 > **Description:** An advanced note-taking app.  <br/>
@@ -136,11 +133,6 @@ description: Other useful tools
 
 > **Description:** An arctic-inspired color palette and theme collection for various sites and applications.   <br/>
 **Link:** [Nord Theme](https://www.nordtheme.com/)
-
-## Pronoun Island
-
-> **Description:** A website for personal pronoun usage examples.   <br/>
-**Link:** [Pronoun Island](https://pronoun.is/)
 
 ## PronounDB
 
@@ -187,7 +179,8 @@ description: Other useful tools
 
 ## Semantic Scholar
 
-> **Description:** Semantic Scholar uses AI to help you find scientific articles without suffering information overload. <br/>
+> **Description:** Semantic Scholar uses AI to help you find scientific articles without suffering information
+> overload. <br/>
 **Link:** [Semantic Scholar](https://www.semanticscholar.org/)
 
 ## Simple Analytics
@@ -215,7 +208,8 @@ description: Other useful tools
 
 ## AlternativeTo
 
-> **Description:** AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
+> **Description:** AlternativeTo is a crowd-sourced website that seeks to find alternate software for various
+> purposes. <br/>
 **Link:** [AlternativeTo](https://alternativeto.net/)
 
 ## Internet Download Manager
@@ -276,7 +270,8 @@ description: Other useful tools
 
 ## dCode
 
-> **Description:** dCode is a universal website used for encoding and decoding messages. Also offers a bunch of related tools.  <br/>
+> **Description:** dCode is a universal website used for encoding and decoding messages. Also offers a bunch of related
+> tools.  <br/>
 **Link:** [dCode Website](https://dcode.fr/en)  <br/>
 **Credit:** @273906785788624907
 
@@ -298,6 +293,7 @@ description: Other useful tools
 
 ## Tixte
 
-> **Description:** Tixte is a content-sharing platform that makes it easy to share files with anyone through personalized links and pages.  <br/>
+> **Description:** Tixte is a content-sharing platform that makes it easy to share files with anyone through
+> personalized links and pages.  <br/>
 **Link:** [Tixte](https://tixte.com/)<br/>
 **Credit:** @684155404078415890

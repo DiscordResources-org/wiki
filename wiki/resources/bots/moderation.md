@@ -12,15 +12,6 @@ description: Discord bot recommendations at the category of moderation.
 **Link:**  [Sapphire Website](https://sapph.xyz/)  <br/>
 **Credit:** @265236642476982273
 
-### Cloe
-
-> **Description:** Upgrade your community with our versatile bot. It's the best of Dyno, MEE6, Maki, Arcane, and Probot,
-> offering rich features all in one.   <br/>
-**Link(s):**  <br/>
-[Cloe](https://cloe.gg?utm_source=discordresources-org) <br/>
-[Invite Cloe](https://cloe.gg/add?utm_source=discordresources-org)  <br/>
-**Credit(s):**  @340243638892101646
-
 ### Zeppelin
 
 > **Description:** Zeppelin is a private moderation bot for Discord, designed with large servers and reliability in
@@ -140,6 +131,15 @@ description: Discord bot recommendations at the category of moderation.
 [GitHub](https://github.com/Benricheson101/anti-phishing-bot)   <br/>
 [Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
 **Credit:** @255834596766253057
+
+### Cloe
+
+> **Description:** Upgrade your community with our versatile bot. It's the best of Dyno, MEE6, Maki, Arcane, and Probot,
+> offering rich features all in one.   <br/>
+**Link(s):**  <br/>
+[Cloe](https://cloe.gg?utm_source=discordresources-org) <br/>
+[Invite Cloe](https://cloe.gg/add?utm_source=discordresources-org)  <br/>
+**Credit(s):**  @340243638892101646
 
 ## You think something is missing?
 

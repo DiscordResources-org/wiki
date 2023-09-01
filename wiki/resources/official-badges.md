@@ -15,6 +15,7 @@ This collection features every badge on Discord for both staff/bot accounts and 
 This was made by @347077478726238228
 
 ## General Badges
+
 | Title                              | Badge                                                                                                                | Obtainable?   | Earned by                                                                                                                                            | Flag            |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
 | Supports Commands                  | <img src="/img/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg" />       | ✅ (Bots ONLY) | Bot must use [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) to earn this badge.                             | 8388608 (2^23)  |
@@ -38,6 +39,7 @@ This was made by @347077478726238228
 \*\* The tester program is currently only available for a select group of people
 
 ## Nitro Boost Tiers
+
 | Title                               | Badge                                                                                                              | Earned by                                                |
 |-------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | Server boosting (1 Month)           | <img src="/img/boosts/discordboost1.svg" href="https://discord.com/assets/ca18353be0e57a2b3b3132fa1c08d6b4.svg" /> | Boost a discord server.                                  |
@@ -51,6 +53,7 @@ This was made by @347077478726238228
 | Server boosting (2 Years)           | <img src="/img/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" /> | Boost a discord server for 2 years straight.             |
 
 ## Server Badges
+
 | Title                      | Badge                                             | Obtainable? | Earned by                                                                       |
 |----------------------------|---------------------------------------------------|-------------|---------------------------------------------------------------------------------| 
 | Partnered Server           | <img src="/img/server/Partnered.svg" />           | ❌           | Given to partnered Discord servers (Currently paused)                           |
@@ -61,6 +64,7 @@ This was made by @347077478726238228
 | Community Server           | <img src="/img/server/Community.svg" />           | ✅           | Given to servers that have community features enabled.                          |
 
 ## Special Flairs
+
 | Title        | Badge                                       | Obtainable? | Earned by                                     |
 |--------------|---------------------------------------------|-------------|-----------------------------------------------| 
 | System       | <img src="/img/special/System.png" />       | ❌           | Obtained by discord official system messages. |
@@ -68,8 +72,8 @@ This was made by @347077478726238228
 | Bot          | <img src="/img/special/Bot.png" />          | ✅           | Obtained by an unverified bot.                |
 | Ai           | <img src="/img/special/Ai.png" />           | ❌           | Only for the Clyde Ai bot.                    |
 
-
 ## Hall of Fame
+
 A collection of unique events that happened on Discord.
 
 | Explanation                                                                                                                                    | Image                                  | 
@@ -77,6 +81,7 @@ A collection of unique events that happened on Discord.
 | Due to the Moderator Alumni server being closed down Sapphire was one of the only bots to ever obtain the **Moderator Programs Alumni** badge. | <img src="/img/fame/sapphiremod.png"/> |
 
 ## Badge Change Log
+
 Some badges changed over time, here is a list of all the changes.
 
 | Badge                        | Before                                                                                        | After                                                         | Date Changed |

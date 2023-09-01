@@ -20,12 +20,14 @@ description: Moderation resources
 ## Naviking’s Moderation Templates & Tools Documentation
 
 > **Description:** A drive file full of moderation resources.   <br/>
-**Link:** [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
+**Link:
+** [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
 **Credit:** @200987752794292224
 
 ## Moderation Guidelines
 
-> **Description:** A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
+> **Description:** A template to help new staff with onboarding and understanding the server's moderation
+> practices.   <br/>
 **Link:** [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
 **Credit:** @366652352125599744
 

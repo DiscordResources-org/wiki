@@ -1,15 +1,10 @@
 ---
-title: Phishing Related 
+title: Phishing Related
 sidebar_position: 4
 description: Phishing and Security tools
 ---
 
 # Phishing Related
-
-## Discord Nitro Scams
-
-> **Description:** This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
-**Link:** [Discord Nitro Information](https://dicsord.gq/)
 
 ## VirusTotal
 
@@ -70,20 +65,16 @@ description: Phishing and Security tools
 
 ## Phisherman
 
-> **Description:**   <br/> 
-Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
+> **Description:**   <br/>
+> Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing
+> them
+> to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
 **Link(s):**   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
 
-## The Vaccinator
-
-> **Description:** A tool for detecting and neutralizing Discord token stealers by deleting their internal Discord webhook. <br/>
-**Note:** This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
-**Link:** [Website](https://sketchy.tel/)  <br/>
-**Credit:** The Vaccinator Team (contact: @204414611578028034)
-
 ## Intezer Analyse
 
-> **Description:** Advanced security researching tools to help determine if a file is malicious and much more. (Not entirely free) <br/>
+> **Description:** Advanced security researching tools to help determine if a file is malicious and much more. (Not
+> entirely free) <br/>
 **Link:** [Intezer Analyse](https://analyze.intezer.com/)

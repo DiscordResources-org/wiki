@@ -8,7 +8,9 @@ description: Unofficial resources for Discord.
 
 ## Discord Lists
 
-> **Description:** A giant list of various Discord things, ranging from the domains currently used by Discord, to undocumented user flags, to known activity application ids, to lists of known partner & verified server invites.   <br/>
+> **Description:** A giant list of various Discord things, ranging from the domains currently used by Discord, to
+> undocumented user flags, to known activity application ids, to lists of known partner & verified server
+> invites.   <br/>
 **Link:** [Discord Lists](https://github.com/Delitefully/DiscordLists)   <br/>
 **Credit:** @142242854167642122
 
@@ -35,7 +37,7 @@ description: Unofficial resources for Discord.
 > **Description:** A list of all the shortened Discord links.   <br/>
 **Link(s):**  <br/>
 [List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
-**Credit:** @179655253392621569 
+**Credit:** @179655253392621569
 
 ## Discord Wiki (fandom)
 
@@ -57,7 +59,8 @@ description: Unofficial resources for Discord.
 
 ## List of Stickers
 
-> **Description:** A list of all stickers you gain access to as a Nitro subscriber, including previews and descriptions of stickers.   <br/>
+> **Description:** A list of all stickers you gain access to as a Nitro subscriber, including previews and descriptions
+> of stickers.   <br/>
 **Link:** [List Of Stickers](https://stickers.advaith.io/)   <br/>
 **Credit:** @190916650143318016
 
@@ -76,7 +79,10 @@ description: Unofficial resources for Discord.
 ## Discord Protocol Links
 
 > **Description:** List of all Discord protocol links.   <br/>
-*Note: Discord protocol links can be used in buttons! Check out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more info. Protocol links don't work on older versions of Android Discord, not sure about iOS. (only <tel://number> works on iOS)*   <br/>
+*Note: Discord protocol links can be used in buttons! Check
+out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more
+info. Protocol links don't work on older versions of Android Discord, not sure about iOS. (only <tel://number> works on
+iOS)*   <br/>
 **Link:** [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 **Credit:** @github:ghostrider-05
 
@@ -101,7 +107,8 @@ description: Unofficial resources for Discord.
 ## Discord Top Servers Stats
 
 > **Description:** A Docs spreadsheet with hourly members stats of the biggest servers on Discord.   <br/>
-**Link:** [Discord Top Servers Stats](https://docs.google.com/spreadsheets/d/1gRQ44Goa8x_M714pSmPXLHW3BAK5LzWzRn1MVXPeVn4/edit#gid=0)
+**Link:
+** [Discord Top Servers Stats](https://docs.google.com/spreadsheets/d/1gRQ44Goa8x_M714pSmPXLHW3BAK5LzWzRn1MVXPeVn4/edit#gid=0)
 
 ## Discord Library
 
@@ -112,7 +119,7 @@ description: Unofficial resources for Discord.
 ## (more) Discord Assets
 
 > **Description:** A list with all icons from the client.   <br/>
-**Link:** [Discord Assets](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
+**Link:** [Discord Assets](https://gitlab.com/bignutty/discord-asset-datamining)   <br/>
 **Credit:** @223518178100248576
 
 ## Discord Basic Templates (fan - made)
@@ -132,3 +139,9 @@ description: Unofficial resources for Discord.
 > **Description:** All of Discord's payloads.   <br/>
 **Link:** [Discord Payloads](https://github.com/discord-payloads/discord-payloads)   <br/>
 **Credit:** @184040656761651200
+
+## Dangercord
+
+> **Description:** Dangercord, formerly known as Dangerous Discord, was created to help protect Discord users from bad
+> actors. <br/>
+**Link:** [Dangercord](https://dangercord.com/)   <br/>

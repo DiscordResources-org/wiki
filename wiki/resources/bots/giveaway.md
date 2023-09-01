@@ -6,6 +6,12 @@ description: Discord bot recommendations at the category of giveaways.
 
 # Giveaways
 
+### GiveawayBot
+
+> **Description:** A bot for hosting giveaways! Add the bot and type /ghelp for a list of commands!   <br/>
+**Link:** [GiveawayBot Website](https://giveawaybot.party/)   <br/>
+**Credit:** @113156185389092864
+
 ### MyGiveaways
 
 > **Description:** One of the BEST Giveaway Bots. Role requirements, Mee6 & Cloe requirements and Templates. FOR
@@ -19,12 +25,6 @@ description: Discord bot recommendations at the category of giveaways.
 > **Description:** Giveaway Boat is an advanced giveaway bot with a lot of features and an easy to use dashboard! <br/>
 **Link:** [Giveaway Boat Website](https://giveaway.boats/)   <br/>
 **Credit:** @228182903140515841
-
-### GiveawayBot
-
-> **Description:** A bot for hosting giveaways! Add the bot and type /ghelp for a list of commands!   <br/>
-**Link:** [GiveawayBot Website](https://giveawaybot.party/)   <br/>
-**Credit:** @113156185389092864
 
 ## You think something is missing?
 

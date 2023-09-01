@@ -6,36 +6,6 @@ description: Discord bot recommendations at the category of fun.
 
 # Fun
 
-### Would You
-
-> **Description:** A bot to play What Would You Do, Never Have I Ever and Would You Rather.  <br/>
-**Link(s):**  <br/>
-[Invite Would You](https://discord.com/oauth2/authorize?client_id=981649513427111957&permissions=275415247936&scope=bot%20applications.commands)  <br/>
-[Would You Website](https://wouldyoubot.gg/)  <br/>
-**Credit:** @347077478726238228
-
-### Memer
-
-> **Description:** Get the coolest Memes or epic Truth or Dare, Never have I ever or Would You Rather Questions in your
-> Discord Server! <br/>
-**Link:
-** [Invite Memer](https://discord.com/api/oauth2/authorize?client_id=927598798019108894&permissions=2147863616&redirect_uri=https%3A%2F%2Fmemer.sattler.dev%2Fprivacy-and-tos%3Futm_source%3Ddiscord-app-invite&response_type=code&scope=identify%20bot%20applications.commands)  <br/>
-**Credit:** @340243638892101646
-
-### Himiko
-
-> **Description:**  Play Smash or Pass with your favorite Waifus! 😍 WITH OVER 50.000 CHARACTERS! 😲 <br/>
-**Link:
-** [Invite Himiko](https://discord.com/api/oauth2/authorize?client_id=927598798019108894&permissions=2147863616&redirect_uri=https%3A%2F%2Fmemer.sattler.dev%2Fprivacy-and-tos%3Futm_source%3Ddiscord-app-invite&response_type=code&scope=identify%20bot%20applications.commands)  <br/>
-**Credit:** @340243638892101646
-
-### Grow a Plant
-
-> **Description:** GGrow a plant with your whole community and sell it to the public marked! <br/>
-**Link:
-** [Invite Grow a Plant](https://discord.com/api/oauth2/authorize?client_id=1123690556686602340&permissions=388096&scope=bot%20applications.commands)  <br/>
-**Credit:** @340243638892101646
-
 ### TacoShack
 
 > **Description:** A simulation bot where you own & manage a taco shack.  <br/>
@@ -76,6 +46,36 @@ description: Discord bot recommendations at the category of fun.
 [Invite TicTacToe](https://discord.com/oauth2/authorize?client_id=919549400919986176&permissions=2147871808&scope=bot%20applications.commands)  <br/>
 [TicTacToe Website](https://tictactoe-bot.xyz/)  <br/>
 **Credit:** @472701425323868161
+
+### Would You
+
+> **Description:** A bot to play What Would You Do, Never Have I Ever and Would You Rather.  <br/>
+**Link(s):**  <br/>
+[Invite Would You](https://discord.com/oauth2/authorize?client_id=981649513427111957&permissions=275415247936&scope=bot%20applications.commands)  <br/>
+[Would You Website](https://wouldyoubot.gg/)  <br/>
+**Credit:** @347077478726238228
+
+### Memer
+
+> **Description:** Get the coolest Memes or epic Truth or Dare, Never have I ever or Would You Rather Questions in your
+> Discord Server! <br/>
+**Link:
+** [Invite Memer](https://discord.com/api/oauth2/authorize?client_id=927598798019108894&permissions=2147863616&redirect_uri=https%3A%2F%2Fmemer.sattler.dev%2Fprivacy-and-tos%3Futm_source%3Ddiscord-app-invite&response_type=code&scope=identify%20bot%20applications.commands)  <br/>
+**Credit:** @340243638892101646
+
+### Himiko
+
+> **Description:**  Play Smash or Pass with your favorite Waifus! 😍 WITH OVER 50.000 CHARACTERS! 😲 <br/>
+**Link:
+** [Invite Himiko](https://discord.com/api/oauth2/authorize?client_id=927598798019108894&permissions=2147863616&redirect_uri=https%3A%2F%2Fmemer.sattler.dev%2Fprivacy-and-tos%3Futm_source%3Ddiscord-app-invite&response_type=code&scope=identify%20bot%20applications.commands)  <br/>
+**Credit:** @340243638892101646
+
+### Grow a Plant
+
+> **Description:** GGrow a plant with your whole community and sell it to the public marked! <br/>
+**Link:
+** [Invite Grow a Plant](https://discord.com/api/oauth2/authorize?client_id=1123690556686602340&permissions=388096&scope=bot%20applications.commands)  <br/>
+**Credit:** @340243638892101646
 
 ## You think something is missing?
 

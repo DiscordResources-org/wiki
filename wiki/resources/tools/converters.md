@@ -10,8 +10,9 @@ description: Converter tools
 
 ### HammerTime
 
-> **Description:** Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
-The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
+> **Description:** Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat
+> message.   <br/>
+> The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
 **Link:** [HammerTime](https://hammertime.djdavid98.art/)   <br/>
 **Credit:** @140360880079503362
 
@@ -23,7 +24,8 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 
 ### DateTimeCord
 
-> **Description:** A useful website to generate date and time formatting Markdown for Discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
+> **Description:** A useful website to generate date and time formatting Markdown for Discord. Supports all the
+> formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
 **Link:** [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
 **Credit:** @172557961133162496
 
@@ -83,17 +85,6 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 > **Description:** View SVG files.   <br/>
 **Link:** [SVG Viewer](https://www.svgviewer.dev/)
 
-### YouTube Downloader
-
-> **Description:** Download a YouTube video as a file using its URL (either audio only or video). <br/>
-**Link:** [YouTube Downloader](http://youtube.tpcstld.me/) <br/>
-**Credit:** @141065743197405184
-
-### Lottie Image Resizer
-
-> **Description:** Lottie image resize so you can get your Lottie files ≤320px.   <br/>
-**Link:** [Lottie Image Resizer](https://lottieresizer.tech/)
-
 ### .gif to .apng
 
 > **Description:** Converts .gif files to .apng files.   <br/>
@@ -111,12 +102,13 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 
 ### Removebg
 
- > **Description:** Remove any background from an image.   <br/>
- **Link:** [Removebg](https://www.remove.bg/upload)
+> **Description:** Remove any background from an image.   <br/>
+**Link:** [Removebg](https://www.remove.bg/upload)
 
 ### Erase.bg
 
-> **Description:** Remove background from images of humans, animals, or objects, and download high-resolution images for free.   <br/>
+> **Description:** Remove background from images of humans, animals, or objects, and download high-resolution images for
+> free.   <br/>
 **Link:** [Erase.bg](https://www.erase.bg/)
 
 ### Cleanup.pictures
@@ -126,5 +118,12 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 
 ### Video Compressor
 
-> **Description:** A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
+> **Description:** A video compressor designed to compress your videos to the perfect size for Discord upload. It comes
+> with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
 **Link:** [Video Compressor](https://8mb.video/)
+>
+> # Remove Background
+
+> **Description:** Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually
+> picking pixels. Upload your photo now & see the magic. <br/>
+**Link:** [Remove Background](https://www.remove.bg/)

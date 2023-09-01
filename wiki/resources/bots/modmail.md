@@ -8,9 +8,9 @@ description: Discord bot recommendations at the category of modmail.
 
 ### SupportMail
 
-> **Description:** SupportMail is a multilingual Discord-bot that allows users to communicate with the mods/server team
-> via the bot's DMs. There is also the feature to report users or messages via the context menu and send them to a
-> configured channel.   <br/>
+> **Description:** SupportMail is a multilingual Discord bot that allows easy communication with the mods/server team
+> via the bot's DMs. Another feature is the feature to report users or messages via the context menu to the
+> mods.   <br/>
 **Link:** [SupportMail](https://supportmail.dev/)   <br/>
 **Credit:** @506893652266844162
 
