@@ -1,158 +1,145 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const themes = require('prism-react-renderer').themes;
-const lightCodeTheme = themes.vsLight;
-const darkCodeTheme = themes.dracula;
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const userWidgetInlinePlugin = require('./src/plugins/userWidgetInlinePlugin');
+const blogAuthorPlugin = require('./src/plugins/blogAuthor');
 const inviteWidgetPlugin = require('./src/plugins/inviteWidgetPlugin');
-const linebreakPlugins = require('./src/plugins/linebreakPlugin');
-const blogAuthorWidgetPlugin = require('./src/plugins/blogAuthorWidgetPlugin');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-	title: 'Discord Resources',
-	tagline: 'A comprehensive compilation of valuable Discord tools and assets for users of all levels, from novices to experts.',
-	url: 'https://discordresources.org',
-	baseUrl: '/',
-	onBrokenLinks: 'throw',
-	onBrokenMarkdownLinks: 'warn',
-	favicon: 'img/favicon.ico',
-	organizationName: 'Discord-Resources-Wiki',
-	projectName: 'Discord-Resources-Wiki',
-	i18n: {
-		defaultLocale: "en",
-		locales: ["de"]
-	  },
-	plugins: [
-		() => ({
-			name: "inject-tag",
-			injectHtmlTags() {
-				return {
-					headTags: [{ tagName: "script", attributes: { src: 'https://stats.sattler.dev/js/script.js', 'data-domain': 'discordresources.org', defer: true } }],
-				};
-			},
-		}),
-	],
-	presets: [
-		[
-			'@docusaurus/preset-classic',
-			/** @type {import('@docusaurus/preset-classic').Options} */
-			({
-				docs: {
-					sidebarPath: require.resolve('./sidebars.js'),
-					editUrl: 'https://github.com/DiscordResources-org/wiki/edit/master',
-					path: 'wiki',
-					routeBasePath: '/',
-					remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin],
-				},
-				blog: {
-					path: 'blog',
-					routeBasePath: '/blog/',
-					showReadingTime: true,
-					remarkPlugins: [
-						linebreakPlugins,
-						inviteWidgetPlugin,
-						blogAuthorWidgetPlugin,
-						userWidgetInlinePlugin,
-					],
-				},
-				theme: {
-					customCss: [
-						require.resolve('inter-ui/inter.css'),
-						require.resolve('./src/css/custom.css'),
-					],
-				},
-			}),
-		],
-	],
-
-	themeConfig:
-		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-		({
-			// We don't set the description and title here to assure that the right og:tags will be delivered per page.
-			metadata: [
-				{
-					name: 'og:type',
-					content: 'Website',
-				},
-				{
-					name: 'publisher',
-					content: 'DiscordResources.org',
-				},
-				{
-					name: 'author',
-					content: 'DiscordResources.org',
-				},
-				{
-					name: 'keywords',
-					content: 'tools, discord, resources, userfriendly, uptodate, up2date, maintained, curated, wiki, blog, community, discordresources, discordresources.org, discord resources, discordresources wiki, discordresources blog, discordresources.org wiki, discordresources.org blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog, discordresources.org/wiki, discordresources.org/blog, discord resources wiki, discord resources blog',
-				},
-				{
-					name: 'og:image',
-					content: 'https://discordresources.org/img/logo-background.png',
-				},
-				{
-					name: 'theme-color',
-					content: '#e58996',
-				},
-				{
-					name: 'twitter:card',
-					content: 'summary',
-				},
-			],
-			colorMode: {
-				defaultMode: 'dark'
-			},
-			navbar: {
-				title: 'Discord Resources',
-				logo: {
-					alt: 'Discord Resources Site Logo',
-					src: 'https://discordresources.org/img/logo-small.png',
-					href: '/',
-				},
-				items: [
-					{
-						to: '/',
-						label: 'Wiki',
-						position: 'left',
-					},
-					{
-						to: 'blog',
-						label: 'Blog',
-						position: 'left',
-					},
-					{
-						href: 'https://github.com/DiscordResources-org/wiki',
-						className: 'navbar-item-github',
-						position: 'right',
-					},
-					{
-						href: 'https://discord.gg/fpRrQr86eG',
-						className: 'navbar-item-discord',
-						position: 'right',
-					},
-					{
-						type: 'localeDropdown',
-						position: 'right',
-					}
-				],
-			},
-			prism: {
-				theme: lightCodeTheme,
-				darkTheme: darkCodeTheme,
-			},
-			algolia: {
-				// The application ID provided by Algolia
-				appId: 'KO08RT1BUB',
-
-				// Public API key: it is safe to commit it
-				apiKey: '90b11a8ac9c24d6fc6aa7aa88c159215',
-
-				indexName: 'discordresources',
-			},
-		}),
+    title: 'Discord Wiki',
+    tagline: 'A comprehensive compilation of valuable Discord tools and assets for users of all levels, from novices to experts.',
+    favicon: 'img/favicon.ico',
+    url: 'https://discordresources.org',
+    baseUrl: '/',
+    organizationName: 'Discord Wiki',
+    projectName: 'Discord Wiki',
+    onBrokenLinks: 'throw',
+    onBrokenMarkdownLinks: 'warn',
+    i18n: {
+        defaultLocale: 'en',
+        locales: ['en'],
+    },
+    plugins: [
+        () => ({
+            name: "inject-tag",
+            injectHtmlTags() {
+                return {
+                    headTags: [{
+                        tagName: "script",
+                        attributes: {
+                            src: 'https://stats.sattler.dev/js/script.js',
+                            'data-domain': 'discordresources.org',
+                            defer: true
+                        }
+                    }],
+                };
+            },
+        }),
+    ],
+    presets: [
+        [
+            'classic',
+            /** @type {import('@docusaurus/preset-classic').Options} */
+            ({
+                docs: {
+                    path: 'wiki',
+                    routeBasePath: '/',
+                    sidebarPath: require.resolve('./sidebars.js'),
+                    editUrl: 'https://github.com/DiscordResources-org/wiki/edit/master',
+                    remarkPlugins: [inviteWidgetPlugin],
+                },
+                blog: {
+                    path: 'blog',
+                    routeBasePath: '/blog/',
+                    showReadingTime: true,
+                    editUrl: 'https://github.com/DiscordResources-org/wiki/edit/master',
+                    remarkPlugins: [blogAuthorPlugin, inviteWidgetPlugin],
+                },
+                theme: {
+                    customCss: require.resolve('./src/css/custom.css'),
+                },
+            }),
+        ],
+    ],
+    themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+        ({
+            // Replace with your project's social card
+            image: 'img/docusaurus-social-card.jpg',
+            navbar: {
+                title: 'My Site',
+                logo: {
+                    alt: 'My Site Logo',
+                    src: 'img/logo.svg',
+                },
+                items: [
+                    {
+                        type: 'docSidebar',
+                        sidebarId: 'tutorialSidebar',
+                        position: 'left',
+                        label: 'Tutorial',
+                    },
+                    {to: '/blog', label: 'Blog', position: 'left'},
+                    {
+                        href: 'https://github.com/facebook/docusaurus',
+                        label: 'GitHub',
+                        position: 'right',
+                    },
+                ],
+            },
+            footer: {
+                style: 'dark',
+                links: [
+                    {
+                        title: 'Docs',
+                        items: [
+                            {
+                                label: 'Tutorial',
+                                to: '/docs/intro',
+                            },
+                        ],
+                    },
+                    {
+                        title: 'Community',
+                        items: [
+                            {
+                                label: 'Stack Overflow',
+                                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                            },
+                            {
+                                label: 'Discord',
+                                href: 'https://discordapp.com/invite/docusaurus',
+                            },
+                            {
+                                label: 'Twitter',
+                                href: 'https://twitter.com/docusaurus',
+                            },
+                        ],
+                    },
+                    {
+                        title: 'More',
+                        items: [
+                            {
+                                label: 'Blog',
+                                to: '/blog',
+                            },
+                            {
+                                label: 'GitHub',
+                                href: 'https://github.com/facebook/docusaurus',
+                            },
+                        ],
+                    },
+                ],
+                copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            },
+            prism: {
+                theme: lightCodeTheme,
+                darkTheme: darkCodeTheme,
+            },
+        }),
 };
 
 module.exports = config;

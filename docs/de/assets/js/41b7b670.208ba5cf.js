@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[8071],{6603:e=>{e.exports=JSON.parse('{"label":"changelog","permalink":"/de/blog/tags/changelog","allTagsPath":"/de/blog/tags","count":1}')}}]);
